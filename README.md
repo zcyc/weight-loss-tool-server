@@ -1,2 +1,2 @@
-# weight-loss-calculator-server
-减肥计算器后端
+# weight-loss-tool-server
+减肥工具后端
